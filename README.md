@@ -1,5 +1,5 @@
 # Steganography
- Stegranography project with Diffie-Hellman
+ Steganography project with Diffie-Hellman
 Steganography with Diffie-Hellman Key Exchange
 <details>
   <summary>Contents</summary>

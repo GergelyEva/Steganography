@@ -58,13 +58,12 @@ While in the image from above the pixels seem the same, if we try hiding the sam
 ![My Image](img/White.png)
 
  ### Sources and references:
-[1] Whats the standard code to generate HMAC SHA256 with key using C# ( https://www.youtube.com/watch?v=TdWXN-_Ti2Q ) 
-[2] How to do Image Steganography using C#  (
-https://www.youtube.com/watch?v=97Vz6wyHeeM&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=1,
+<p>[1] Whats the standard code to generate HMAC SHA256 with key using C# ( https://www.youtube.com/watch?v=TdWXN-_Ti2Q ) </p>
+<p>[2] How to do Image Steganography using C#  (https://www.youtube.com/watch?v=97Vz6wyHeeM&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=1,
 https://www.youtube.com/watch?v=DfFo59C9yK4&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=2,
 https://www.youtube.com/watch?v=g_42a6E4aEw&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=3,
-https://www.youtube.com/watch?v=e59JvHHWwhk&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=4 )
-[3] C# 6.0 Tutorial - Advanced - 60. ECDiffieHellmanCng Cryptography, Encrypt and Decrypt   ( https://www.youtube.com/watch?v=xpO-ckTESJU )
-[4] Diffie–Hellman key exchange ( https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange )
-[5] Steanography ( https://en.wikipedia.org/wiki/Steganography )
+https://www.youtube.com/watch?v=e59JvHHWwhk&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=4 )</p>
+<p>[3] C# 6.0 Tutorial - Advanced - 60. ECDiffieHellmanCng Cryptography, Encrypt and Decrypt ( https://www.youtube.com/watch?v=xpO-ckTESJU) </p>
+<p>[4] Diffie–Hellman key exchange ( https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange ) </p>
+<p></p>[5] Steganography ( https://en.wikipedia.org/wiki/Steganography ) </p>
  

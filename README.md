@@ -7,6 +7,7 @@ Steganography with Diffie-Hellman Key Exchange
     <li><a href="#Diffie-Hellman and HMAC creation and verification">Diffie-Hellman and HMAC creation and verification</a></li>
     <li><a href="#Stegranography">Stegranography</a></li>
     <li><a href="#Decoding">Decoding</a></li>
+    <li><a href="#Sources">Sources and References</a></li>
 
   </ol>
 </details>
@@ -55,3 +56,13 @@ Image-  original and encrypted
 While in the image from above the pixels seem the same, if we try hiding the same message in a black or a white image, then it is clearly visible that the last pixel holds the message length and where the pixels that hold the message are.
 
 ![My Image](img/White.png)
+
+ ### Sources and references:
+[1] Whats the standard code to generate HMAC SHA256 with key using C# ( https://www.youtube.com/watch?v=TdWXN-_Ti2Q ) 
+[2] How to do Image Steganography using C#  (
+https://www.youtube.com/watch?v=97Vz6wyHeeM&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=1,
+https://www.youtube.com/watch?v=DfFo59C9yK4&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=2,
+https://www.youtube.com/watch?v=g_42a6E4aEw&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=3,
+https://www.youtube.com/watch?v=e59JvHHWwhk&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=4 )
+[3] C# 6.0 Tutorial - Advanced - 60. ECDiffieHellmanCng Cryptography, Encrypt and Decrypt   ( https://www.youtube.com/watch?v=xpO-ckTESJU )
+ 

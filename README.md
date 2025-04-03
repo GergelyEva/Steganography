@@ -29,7 +29,7 @@ For integrity purposes and to eliminate the possbility of a man-in-the middle at
 
 After verification, the “Open File” button is enabled, so that the user can select a file for the steganography process. For learning purpose, the results of calculations and shared key, are shown in labels.
 
-### Stegranography - Selecting an image and encoding
+### Steganography - Selecting an image and encoding
 
 “ Steganography is the practice of representing information within another message or physical object, in such a manner that the presence of the concealed information would not be evident to an unsuspecting person's examination. In computing/electronic contexts, a computer file, message, image, or video is concealed within another file, message, image, or video.”  -Wikipedia
 
@@ -65,4 +65,6 @@ https://www.youtube.com/watch?v=DfFo59C9yK4&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nh
 https://www.youtube.com/watch?v=g_42a6E4aEw&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=3,
 https://www.youtube.com/watch?v=e59JvHHWwhk&list=PL1bWnw04XAnbt56GjNHk4NLlHNQ8Nhtd7&index=4 )
 [3] C# 6.0 Tutorial - Advanced - 60. ECDiffieHellmanCng Cryptography, Encrypt and Decrypt   ( https://www.youtube.com/watch?v=xpO-ckTESJU )
+[4] Diffie–Hellman key exchange ( https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange )
+[5] Steanography ( https://en.wikipedia.org/wiki/Steganography )
  
